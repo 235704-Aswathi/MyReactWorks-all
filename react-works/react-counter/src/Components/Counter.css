@@ -1,0 +1,29 @@
+.Container{ 
+   background-color: bisque;
+   width: 200px;
+   height:150px;
+   border-radius: 4px;
+}
+.Heading{
+    display: flex;
+    justify-content: center;
+}
+
+.Button{
+    display: flex;
+    justify-content: center;
+    padding:10px 20px;
+    border-radius: 10px;
+    
+}
+
+:root{
+    width: 100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    margin: 0px 20px;
+}

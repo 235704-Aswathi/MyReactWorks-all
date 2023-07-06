@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "fullName": "Aswathimol S",
+      "email": "aswathimol.s@ust.com",
+      "password": "34567",
+      "id": 1
+    },
+    {
+      "fullName": "Aswathimol S",
+      "email": "aswathimol.s@ust.com",
+      "password": "dfgh",
+      "id": 2
+    },
+    {
+      "fullName": "Aswathimol S",
+      "email": "aswathimol.s@ust.com",
+      "password": "qwertyui",
+      "id": 3
+    }
+  ]
+}

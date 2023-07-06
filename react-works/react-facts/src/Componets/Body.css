@@ -1,0 +1,20 @@
+.body{
+   height: 38rem;
+   background-image: url('https://tse2.mm.bing.net/th/id/OIP.XMJOqsxF3JuXexojdz01FQHaEK?pid=ImgDet&rs=1');
+   background-size: cover;
+}
+h1{
+    color: white;
+    
+}
+h2{
+    color:white;
+}
+ul{
+    font-weight: 500;
+    
+}
+li::marker{
+    color: rgb(96, 174, 201);
+    max-width: 20px;
+}

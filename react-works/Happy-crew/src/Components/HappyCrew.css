@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+  html{
+      font-family: 'Poppins', sans-serif;
+  }
+  .container{
+      width: 100%;
+      padding: 20px;
+      margin: 1 rem auto;
+  }
+  .form {
+      width: 60%;
+      margin: 0 auto;
+      padding: 1 rem;
+      background-color: white;
+  }
+  .form>h1{
+      text-align: center;
+      margin-bottom: 2%;
+      margin-top: 5%;
+      color: rgb(237,171,50);
+  }
+  .form>h2{
+      text-align: center;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .form-group{
+      margin-bottom: 6%;
+      width: 96%;
+      margin-left: 6%;
+  }
+  .form-input{
+      padding: 1rem;
+      border: .5px solid rgb(197, 191, 191);
+      width: 83%;
+      margin-left: 6%;
+      border-radius: 5px;
+      margin-top: 2%;
+      margin-bottom: 2px;
+  }
+  button{
+      background-color: rgb(255, 174, 0);
+      padding: 1rem 2rem;
+      border: none;
+      color:white;
+      font-size: 1.25rem;
+      cursor: pointer;
+      transition: all .3s ease;
+      margin-bottom: 5%;
+      margin-left: 5%;
+  }
+  button:hover{
+      background-color:rgb(240, 144, 10);
+  }
+  .check{
+      margin-top: 3%;
+  }
+  .red{
+      color: red;
+  }
+  hr{
+      border: solid 1px rgb(180, 18, 18);
+  }
+
+
+
+
+
+
+
+
+
+
+
